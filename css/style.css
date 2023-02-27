@@ -146,6 +146,12 @@ iframe {
     gap: 20px;
 }
 
+.video img {
+    height: 110px;
+    width: 180px;
+
+}
+
 .video span {
     display: flex;
     flex-direction: column;
